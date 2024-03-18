@@ -1,6 +1,6 @@
 ## Boston Housing Data Analysis ##
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="OIP (1).jpeg">
 </p>
 ## INTRODUCTION ##
 Welcome to the Boston Housing Data Analysis project repository! This project delves into the intricate dynamics of the housing market in one of America's oldest and most vibrant cities, Boston. Through comprehensive data analysis, visualization, and modeling, we aim to unearth valuable insights that can aid prospective homeowners, real estate investors, and policymakers in making informed decisions.
